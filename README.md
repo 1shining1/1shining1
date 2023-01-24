@@ -6,10 +6,8 @@
     width="100%"
 /> -->
 <p style="color:#666;">I'm a Front End Developer based in North Carolina.</p>
-<a href="https://www.linkedin.com/in/shining-yun/" target="_blank" alt="">
-    <span>
+<a target="_blank" href="https://www.linkedin.com/in/shining-yun/">
         <img src="https://img.shields.io/badge/Click here to check my Linkedin Page-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff" alt="Click here to check my Linkedin Page">
-    </span>
 </a>
 <br>
 <br>
