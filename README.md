@@ -1,4 +1,4 @@
-# Hi, I'm Yuna👋
+# Hi, I'm Cheonga👋
 <!-- ![name_banner](https://user-images.githubusercontent.com/43771301/214397688-3f5700ed-a3fc-46b3-8be9-ab801365a199.jpg) -->
 <!-- <img
     src="https://user-images.githubusercontent.com/43771301/214397688-3f5700ed-a3fc-46b3-8be9-ab801365a199.jpg"
